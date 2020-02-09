@@ -1,0 +1,9 @@
+public class LightGrapple extends Grapple {
+    public Throw1(String names) {
+        super(names);
+    }
+    
+    public String toString() {
+        return "Card: " + super.getName();
+    }
+}

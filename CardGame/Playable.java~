@@ -1,0 +1,4 @@
+public interface Playable {
+     void playCard(Player p1, Player p2);
+}
+

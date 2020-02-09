@@ -1,0 +1,5 @@
+public class LightShield extends Shield {
+    public LightShield(String names) {
+        super(names);
+    }
+}
