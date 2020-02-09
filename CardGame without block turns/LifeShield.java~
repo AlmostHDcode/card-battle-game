@@ -1,0 +1,5 @@
+public class LifeShield extends Shield {
+    public LifeShield(String names) {
+        super(names);
+    }
+}

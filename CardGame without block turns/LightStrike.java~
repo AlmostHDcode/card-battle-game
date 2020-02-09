@@ -1,0 +1,5 @@
+public class LightStrike extends Strike {
+    public LightStrike(String names) {
+        super(names);
+    }
+}

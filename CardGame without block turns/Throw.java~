@@ -1,0 +1,5 @@
+public class Throw extends Card {
+    public Throw(String names) {
+        super(names);
+    }
+}

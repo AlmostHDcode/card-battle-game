@@ -1,0 +1,5 @@
+public class HeavyShield extends Shield {
+    public HeavyShield(String names) {
+        super(names);
+    }
+}

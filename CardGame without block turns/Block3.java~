@@ -1,0 +1,5 @@
+public class Block3 extends Block {
+    public Block3(String names) {
+        super(names);
+    }
+}

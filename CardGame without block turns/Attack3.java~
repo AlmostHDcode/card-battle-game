@@ -1,0 +1,5 @@
+public class Attack3 extends Attack {
+    public Attack3(String names) {
+        super(names);
+    }
+}

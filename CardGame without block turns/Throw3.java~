@@ -1,0 +1,5 @@
+public class Throw3 extends Throw {
+    public Throw3(String names) {
+        super(names);
+    }
+}
